@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamahsan_khn_" target="blank"><img src="https://img.shields.io/twitter/follow/iamahsan_khn_?logo=twitter&style=for-the-badge" alt="iamahsan_khn_" /></a> </p>
 
-- 🌱 I’m currently learning **React, NodeJs**
-
-//- 👨‍💻 All of my projects are available at [mahsank1-portfolio.vercel.app](https://mahsank1-portfolio.vercel.app/)
+- 🌱 I’m currently learning **React, NodeJs, Mongodb**
 
 - 💬 Ask me about **JavaScript, React and NodeJs**
 
 - 📫 How to reach me **mahsank111@gmail.com**
 
-- ⚡ Fun fact **I think I am Boring🗿**
+- 👨‍💻 All of my projects are available at [mahsank1-portfolio.vercel.app](https://mahsank1-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
