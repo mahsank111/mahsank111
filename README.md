@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs**
 
-- 👨‍💻 All of my projects are available at [mahsank1-portfolio.vercel.app](https://mahsank1-portfolio.vercel.app/)
+//- 👨‍💻 All of my projects are available at [mahsank1-portfolio.vercel.app](https://mahsank1-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React and NodeJs**
 
