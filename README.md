@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamahsan_khn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamahsan_khn_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahsank111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsank111" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-ahsan-khan-979367319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsank111" height="30" width="40" /></a>
 <a href="https://fb.com/mohđ ahsan khań" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohđ ahsan khań" height="30" width="40" /></a>
 <a href="https://instagram.com/iam4hsan_khn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam4hsan_khn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahsank11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahsank11" height="30" width="40" /></a>
