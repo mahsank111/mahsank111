@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamahsan_khn_" target="blank"><img src="https://img.shields.io/twitter/follow/iamahsan_khn_?logo=twitter&style=for-the-badge" alt="iamahsan_khn_" /></a> </p>
 
-- 🌱 I’m currently learning **React, NodeJs, Mongodb**
+- 🌱 I’m currently learning **SQL, Data Analysis, DevOps**
 
-- 💬 Ask me about **JavaScript, React and NodeJs**
+- 💬 Ask me about **Data Analysis, DevOps**
 
 - 📫 How to reach me **mahsank111@gmail.com**
 
